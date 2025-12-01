@@ -23,14 +23,14 @@ repository               : "davidiagraid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cool_pic.png"
+  avatar           : "cool_pic.jpg"
   name             : "David Iagaru"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Applied Mathematics in AI for Earth Observation. I am investigating into hallucinations phenomenoma."
   location         : "Paris-Munich"
-  employer         : "German Aerospace Center (DLR) - Ecole Polytechnique"
+  employer         : "DLR - Ecole Polytechnique"
   uri              : # URL
-  email            : "{first_name}.{last_name}@polytechnique.edu" 
+  email            : "david.iagaru@polytechnique.edu" 
 
   # Academic websites
   #academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : David Iagăru 
+  linkedin         : david-iagaru
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
